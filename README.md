@@ -6,3 +6,5 @@ Taxi Agent problem implemented for Indian capital cities. The system works in su
 
 Simple Maps: https://simplemaps.com/data/in-cities
 geoPy: https://geopy.readthedocs.io/en/stable/
+
+Thanks to Dr. Subu Kandasamy sir for guiding me through the entire process.
